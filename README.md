@@ -16,23 +16,18 @@
 
 
 
-| [Philosophy](#philosophy) :thought_balloon: | [Processes](#processes) :speech_balloon: | [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuous-integration) :arrows_counterclockwise: | [Continuous Delivery](#continuous-delivery) :arrows_counterclockwise: |
+| [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuous-integration) :arrows_counterclockwise: | [Continuous Deployment](#continuous-delivery) :arrows_counterclockwise: |
 |---------------------------------------------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------|
 |                                             |                                          |                                                             |                                                                 |                                                                            |                                                                       |
 
-| [Infrastructure As Code](#infrastructure-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [IAAS Providers](#iaas-providers) :cloud: | [PAAS Providers](#paas-providers) :cloud: | [Containerisation](#containerisation) :ship: |
+| [Infrastructure As Code](#infrastructure-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [Containerisation](#containerisation) :ship: |
 |---------------------------------------------------------|---------------------------------------|--------------------------------------|-------------------------------------------|-------------------------------------------|----------------------------------------------|
 |                                                         |                                       |                                      |                                           |                                           |                                              |
 
-| [MicroServices](#microservices) :microscope: | [Anti Patterns](#anti-patterns) :no_entry_sign: | [Security](#security) :lock: | [Languages](#languages) :pencil: | [Books](#books) :books: | [Slide Presentations](#slide-presentations) | [Videos](#videos) :tv: |
+| [Security](#security) :lock: | [Languages](#languages) :pencil: | [Videos](#videos) :tv: |
 |----------------------------------------------|-------------------------------------------------|------------------------------|----------------------------------|---------------------------------------------|--------------------------|-----------------------|
 |                                              |                                                 |                                  |                         |                                              |                                                 |                                  |
 
-
-* [Conferences and Meet-ups](#conferences) :video_camera:
-
-* [Contributing](#contributing)
-* [License](#license)
 
 ## Philosophy
 
