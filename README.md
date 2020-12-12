@@ -24,7 +24,7 @@
 
 |-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
 
-| [Security](#security) :lock: | [Languages](#languages) :pencil: | [Videos](#videos) :tv: |
+| [Security](#security) :lock: | [GitHub Actions](#github-actions) :github: | [Languages](#languages) :pencil: | [Videos](#videos) :tv: |
 
 |-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
 
@@ -130,8 +130,8 @@
 
 ### Javascript:
 
-- [ ] [A curated list of awesome Go frameworks](https://github.com/avelino/awesome-go)
-- [ ] [Go programming language tour](https://tour.golang.org/)
+* A curated list of awesome Go frameworks - https://github.com/avelino/awesome-go
+* Go programming language tour - https://tour.golang.org/
 
 ### Ruby
 
