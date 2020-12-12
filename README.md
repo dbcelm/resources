@@ -1,5 +1,4 @@
-# resources
-Useful resources regarding DevOps which makes fetching them handy when you need them the most. Wise men always keep handbooks.
+# Useful resources regarding DevOps which makes fetching them handy when you need them the most. Wise men always keep handbooks.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dbcelm/resources)
 [![Website Status](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=online&url=https%3A%2F%2Fdbcelm.com)](https://dbcelm.com)
