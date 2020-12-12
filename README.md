@@ -10,7 +10,7 @@
 
 ![learning](https://devopedia.org/images/article/54/7602.1513404277.png)
 
-=======================================================================================================================
+============================================================================================================
 
 ### Hello world! We will try our best to make sure this is the finest curated list of all DevOps resources at one place. Help us by fixing our mistakes and adding more useful links. Thanks!
 
