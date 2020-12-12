@@ -1,11 +1,11 @@
 # resources
 Useful resources regarding DevOps which makes fetching them handy when you need them the most. Wise men always keep handbooks.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master)](https://travis-ci.org/TheRemoteLab/awesome-learning)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dbcelm/resources)
+[![Website Status](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=online&url=https%3A%2F%2Fdbcelm.com)](https://dbcelm.com)
 ![DevOps](https://img.shields.io/badge/Build%20For-DevOps-blue.svg)
 [![License](https://img.shields.io/github/license/dbcelm/resources)](https://www.mozilla.org/en-US/MPL/)
-[![Slack](https://img.shields.io/badge/Community-Slack-orange.svg)](https://letsdevops.slack.com)
+[![Slack](https://img.shields.io/badge/Community-Slack-orange.svg)](https://dbcelm.slack.com)
 
 ... because learning DevOps is awesome
 
