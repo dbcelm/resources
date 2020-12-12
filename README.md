@@ -6,9 +6,9 @@
 [![License](https://img.shields.io/github/license/dbcelm/resources)](https://www.mozilla.org/en-US/MPL/)
 [![Slack](https://img.shields.io/badge/Community-Slack-orange.svg)](https://dbcelm.slack.com)
 
-... because learning DevOps is awesome
+... learning DevOps is awesome
 
-![learning](https://cloud.githubusercontent.com/assets/8342133/12172223/a0db04b8-b575-11e5-9dfd-51fbf7c58de8.gif)
+![learning](https://www.nicepng.com/png/full/117-1174581_cloud-computing-png.png)
 
 =======================================================================================================================
 
