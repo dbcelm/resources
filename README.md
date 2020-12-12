@@ -8,7 +8,7 @@
 
 ... learning DevOps is awesome
 
-![learning](https://www.nicepng.com/png/full/117-1174581_cloud-computing-png.png)
+![learning](https://devopedia.org/images/article/54/7602.1513404277.png)
 
 =======================================================================================================================
 
