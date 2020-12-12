@@ -12,7 +12,7 @@
 
 ============================================================================================================
 
-### Hello world! We will try our best to make sure this is the finest curated list of all DevOps resources at one place. Help us by fixing our mistakes and adding more useful links. Thanks!
+### Hello world! I try my best to keep maintaining the finest curated list of all DevOps resources that I come across in my day to day work which add additional value to my work and help building the community. Help me add new resources if you feel if there's a better one. Thanks!
 
 
 
