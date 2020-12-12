@@ -10,7 +10,7 @@
 
 ![learning](https://devopedia.org/images/article/54/7602.1513404277.png)
 
-============================================================================================================
+=========================================================================================
 
 ### Hello world! I try my best to keep maintaining the finest curated list of all DevOps resources that I come across in my day to day work which add additional value to my work and help building the community. Help me add new resources if you feel if there's a better one. Thanks!
 
@@ -18,15 +18,15 @@
 
 | [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuous-integration) :star2: | [Continuous Deployment](#continuous-delivery) :dash: |
 
-|-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
+|-------------------------------------------------------|-----------------------------------------------------------------------|---------------------------|
 
 | [Infrastructure As Code](#infrastructure-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [AWS](#AWS) :cloud: | [Containerisation](#containerisation) :ship: |
 
-|-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
+|-------------------------------------------------------|-----------------------------------------------------------------------|---------------------------|
 
 | [Security](#security) :lock: | [GitHub Actions](#github-actions) :rocket: | [Languages](#languages) :pencil: | [Videos](#videos) :tv: |
 
-|-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
+|-------------------------------------------------------|-----------------------------------------------------------------------|---------------------------|
 
 
 
