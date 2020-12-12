@@ -20,7 +20,7 @@
 
 |-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
 
-| [Infrastructure As Code](#infrastructure-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [Containerisation](#containerisation) :ship: |
+| [Infrastructure As Code](#infrastructure-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [AWS](#AWS) :aws: | [Containerisation](#containerisation) :ship: |
 
 |-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
 
@@ -29,19 +29,6 @@
 |-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
 
 
-## Philosophy
-
-- [ ] [Five years, building a culture, and handing it off](http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off/)
-- [ ] [3 characteristics of an effective cloud developer](http://www.thoughtsoncloud.com/2015/10/3-characteristics-of-an-effective-cloud-developer/)
-- [ ] [The Must Know Checklist For DevOps & Site Reliability Engineers](https://medium.com/faun/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d)
-
-## Processes
-
-- [ ] [I want to be a DevOps!](http://brassy.net/articles/getting-in-to-devops/)
-- [ ] [Hiring a Cloud Engineer? Questions to Ask and What You Should Hear](https://medium.com/aws-activate-startup-blog/hiring-a-cloud-engineer-questions-to-ask-and-what-you-should-hear-12a960d97163)
-- [ ] [How To Write A Good Status Update](http://blog.statuspage.io/how-to-write-a-good-status-update)
-- [ ] [Communication and Collaboration across teams](http://theremotelab.com/blog/slack+trello/)
-- [ ] [5 Expert Recommendations when Hiring a DevOps Engineer](http://blog.flux7.com/5-expert-recommendations-when-hiring-a-devops-engineer)
 
 ## Source Code Management
 
@@ -55,12 +42,15 @@
 - [ ] [Code Reviews - Git Pull Requests Vs Gerrit](https://julien.danjou.info/blog/2013/rant-about-github-pull-request-workflow-implementation)
 - [ ] [Zappr - Approvals for Github PRs - By Zalando](https://zappr.opensource.zalan.do/login)
 
+
 ## Build Automation:
+
 
 ## Continuous Integration:
 
 - [ ] [CI Using Docker platform - Jenkins, SonarQube, Nexus, Gitlab](https://blog.codecentric.de/en/2015/10/continuous-integration-platform-using-docker-container-jenkins-sonarqube-nexus-gitlab/)
 - [ ] [Six rules for setting up continuous integration systems](https://rhonabwy.com/2016/01/31/six-rules-for-setting-up-continuous-integration-systems/)
+
 
 ## Continuous Delivery:
 
@@ -70,7 +60,6 @@
 
 
 ## Infrastructure As Code:
-
 
 - [ ] [Why Bosh? I just learnt Chef!](https://speakerdeck.com/drnic/why-bosh-i-just-learnt-chef)
 - [ ] [Chef - Tips and Tricks -1](https://raymii.org/s/tutorials/Chef_search_in_recipe_on_roles_or_recipes.html)
@@ -92,11 +81,11 @@
 
 - [ ] [Taming Icinga 2 for distributed monitoring](https://github.com/saurabh-hirani/icinga2-api-examples)
 
+
 ## Logging:
 
-## IAAS Providers:
 
-### AWS:
+## AWS:
 
 - [ ] [5 AWS Mistakes You Should Avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
 - [ ] [AWS Route 53 Best Practices](https://cloudnative.io/blog/2015/03/aws-route-53-best-practices/)
@@ -106,17 +95,6 @@
 - [ ] [AWS Inspector - Security](http://theremotelab.com/blog/aws-inspector-introduction/)
 - [ ] [AWS VPC - Fundamentals](http://theremotelab.com/blog/aws-vpc-concepts/)
 
-
-## Scalability
-
-- [ ] [Internet Scale Services Checklist](https://gist.github.com/acolyer/95ef23802803cb8b4eb5)
-- [ ] [How to build stable systems](https://medium.com/@jlouis666/how-to-build-stable-systems-6fe9dcf32fc4#.hvzrpdbw2)
-- [ ] [Zookeeper](http://www.slideshare.net/scottleber/apache-zookeeper)
-- [ ] [Haproxy Best Practices](http://www.slideshare.net/haproxytech/haproxy-best-practice)
-
-## PAAS Providers:
-
-- [ ] [PaaSTA: An Open, Distributed, Platform as a Service](http://engineeringblog.yelp.com/2015/11/introducing-paasta-an-open-platform-as-a-service.html)
 
 ## Containerisation:
 
@@ -135,21 +113,13 @@
 - [ ] [Containers and VMs Together](https://blog.docker.com/2016/04/containers-and-vms-together/)
 - [ ] [Docker and 12FA -  A perfect Couple](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c#.ex6xwlqy2)
 
-## Microservices:
-
-- [ ] [Creating a Microservice? Answer these 10 Questions First](https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/)
-
-
-## Anti Patterns:
-
-- [ ] [Chef Cookbook anti-patterns](http://dougireton.com/blog/2013/02/16/chef-cookbook-anti-patterns/)
-- [ ] [Why Chef roles aren't evil?](https://www.chef.io/blog/2013/11/19/chef-roles-arent-evil/)
 
 ## Security
 
 - [ ] [Streisand - sets up a brand new server running a wide variety of anti-censorship software](https://github.com/jlund/streisand)
 - [ ] [Install, configure and automatically renew Let's Encrypt SSL certificate](https://vincent.composieux.fr/article/install-configure-and-automatically-renew-let-s-encrypt-ssl-certificate)
 - [ ] [Security Guide: How to Protect Your Infrastructure Against the Basic Attacker](http://blog.mailgun.com/security-guide-basic-infrastructure-security/)
+
 
 ## Languages:
 
@@ -158,48 +128,28 @@
 * Python 2.7 - https://docs.python.org/2/tutorial/
 * Curated Python Learning Resources - https://hackr.io/tutorials/learn-python/
 
-### Ruby
-
-* http://tryruby.org/levels/1/challenges/0
-
-### Golang:
+### Javascript:
 
 - [ ] [A curated list of awesome Go frameworks](https://github.com/avelino/awesome-go)
 - [ ] [Go programming language tour](https://tour.golang.org/)
+
+### Ruby
+
+* http://tryruby.org/levels/1/challenges/0
 
 ### Shell
 
 - [ ] [ShellCheck - A shell script static analysis tool](https://github.com/koalaman/shellcheck)
 
-## Distributed Systems:
-
-- [ ] [Distributed Systems Are a UX Problem](http://bravenewgeek.com/distributed-systems-are-a-ux-problem/)
-
-## Bots:
-
-- [ ] [Lita](https://www.lita.io/)
-- [ ] [Err](http://errbot.io/)
-
-
-
-## Books:
-
-- [ ] [Books to become a better Infrastructure Developer](https://github.com/stack72/ops-books)
-
-## Slide Presentations:
 
 ## Videos:
 
+
 ## Conferences:
+
 
 ## Contributing:
 
 Contributions are most welcome!
 
 This list is just getting started, please contribute to make it super awesome.
-
-Check out the [Contributing Guidelines](https://github.com/TheRemoteLab/awesome-learning/blob/master/CONTRIBUTING.md).
-
-## License:
-
-  <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">awesome-learning</span> by <a xmlns:cc="http://creativecommons.org" href="http://www.linkedin.com/company/the-remote-lab" property="cc:attributionName" rel="cc:attributionURL">The Remote Lab</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
