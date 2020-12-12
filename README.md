@@ -24,7 +24,7 @@
 
 |-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
 
-| [Security](#security) :lock: | [GitHub Actions](#github-actions) :github: | [Languages](#languages) :pencil: | [Videos](#videos) :tv: |
+| [Security](#security) :lock: | [GitHub Actions](#github-actions) :git: | [Languages](#languages) :pencil: | [Videos](#videos) :tv: |
 
 |-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
 
@@ -119,6 +119,13 @@
 - [ ] [Streisand - sets up a brand new server running a wide variety of anti-censorship software](https://github.com/jlund/streisand)
 - [ ] [Install, configure and automatically renew Let's Encrypt SSL certificate](https://vincent.composieux.fr/article/install-configure-and-automatically-renew-let-s-encrypt-ssl-certificate)
 - [ ] [Security Guide: How to Protect Your Infrastructure Against the Basic Attacker](http://blog.mailgun.com/security-guide-basic-infrastructure-security/)
+
+
+## GitHub Actions
+
+- [ ] [Streisand - sets up a brand new server running a wide variety of anti-censorship software](https://github.com/jlund/streisand)
+- [ ] [Install, configure and automatically renew Let's Encrypt SSL certificate](https://vincent.composieux.fr/article/install-configure-and-automatically-renew-let-s-encrypt-ssl-certificate)
+- [ ] [Security Guide: How to Protect Your Infrastructure Against the Basic Attacker](http://blog.mailgun.com/security-guide-basic-infrastructure-security/) 
 
 
 ## Languages:
