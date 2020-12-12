@@ -20,7 +20,7 @@
 
 |-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
 
-| [Infrastructure As Code](#infrastructure-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [AWS](#AWS) :aws: | [Containerisation](#containerisation) :ship: |
+| [Infrastructure As Code](#infrastructure-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [AWS](#AWS) :cloud: | [Containerisation](#containerisation) :ship: |
 
 |-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
 
