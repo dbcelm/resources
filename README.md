@@ -16,7 +16,7 @@
 
 
 
-| [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuous-integration) :arrows_counterclockwise: | [Continuous Deployment](#continuous-delivery) :arrows_counterclockwise: |
+| [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuous-integration) :star2: | [Continuous Deployment](#continuous-delivery) :dash: |
 
 |-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
 
@@ -24,7 +24,7 @@
 
 |-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
 
-| [Security](#security) :lock: | [GitHub Actions](#github-actions) :git: | [Languages](#languages) :pencil: | [Videos](#videos) :tv: |
+| [Security](#security) :lock: | [GitHub Actions](#github-actions) :rocket: | [Languages](#languages) :pencil: | [Videos](#videos) :tv: |
 
 |-------------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
 
