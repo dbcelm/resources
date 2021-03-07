@@ -10,13 +10,13 @@
 
 ![learning](https://devopedia.org/images/article/54/7602.1513404277.png)
 
-=========================================================================================
+========================================================================
 
 ### Hello world! I try my best to keep maintaining the finest curated list of all DevOps resources that I come across in my day to day work which add additional value to my work and help building the community. Help me add new resources if you feel if there's a better one. Thanks!
 
 
 
-| [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuous-integration) :star2: | [Continuous Deployment](#continuous-delivery) :dash: |
+| [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration and Deployment](#continuous-integration-and-deployment) :star2:
 
 |---------------------------------------------------------------------------------------------------------------|
 
@@ -46,17 +46,10 @@
 ## Build Automation:
 
 
-## Continuous Integration:
+## Continuous Integration And Deployment:
 
 - [ ] [CI Using Docker platform - Jenkins, SonarQube, Nexus, Gitlab](https://blog.codecentric.de/en/2015/10/continuous-integration-platform-using-docker-container-jenkins-sonarqube-nexus-gitlab/)
 - [ ] [Six rules for setting up continuous integration systems](https://rhonabwy.com/2016/01/31/six-rules-for-setting-up-continuous-integration-systems/)
-
-
-## Continuous Delivery:
-
-- [ ] [A skeptic’s guide to continuous delivery](http://blogs.atlassian.com/tag/cd-skeptics/)
-- [ ] [Continuous Delivery - Jez Humble](http://www.devopsdays.org/blog/wp-content/uploads/2010/11/jez-humble-continuous_delivery_devopsdays_2010.pdf)
-- [ ] [CD using Jenkins DSL Plugin](https://blog.codecentric.de/en/2015/01/continuous-delivery-microservices-jenkins-job-dsl-plugin/)
 
 
 ## Infrastructure As Code:
