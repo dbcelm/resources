@@ -18,15 +18,15 @@
 
 | [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuous-integration) :star2: | [Continuous Deployment](#continuous-delivery) :dash: |
 
-|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+|-------------------------------------------------------------------------------|
 
 | [Infrastructure As Code](#infrastructure-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [AWS](#AWS) :cloud: | [Containerisation](#containerisation) :ship: |
 
-|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+|-------------------------------------------------------------------------------|
 
 | [Security](#security) :lock: | [GitHub Actions](#github-actions) :rocket: | [Languages](#languages) :pencil: | [Videos](#videos) :tv: |
 
-|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+|-------------------------------------------------------------------------------|
 
 
 
